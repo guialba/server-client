@@ -1,0 +1,1 @@
+gcc -Iincludes -pthread -o bin/main src/main.c -Llib -lcomm
